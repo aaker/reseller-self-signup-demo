@@ -1,5 +1,9 @@
 Backend Code:
 
+#setup .env
+cp example.env .env
+# edit file and add in super user ApiKey and SMTP creds
+
 #Install Dependencies
 npm install
 
